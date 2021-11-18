@@ -60,5 +60,3 @@ const guess = Number(document.querySelector('.guess').value);
 ## Author
 
 Pranita Tapase
-Automation Developer at Kyndryl-IBM 
-Coding backend Javascript in VMware-VRO for Cloud Automation
