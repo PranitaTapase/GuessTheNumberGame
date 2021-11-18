@@ -2,6 +2,7 @@
 ## Table of contents
 
 - [Overview](#overview)
+  - [Screenshots](#screenshots)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -20,6 +21,9 @@ If user do not enter any number, No number warning will be given to user.
 Once the user wins the current score is set to high score. When the user starts game again, they can compete to incerease their high scores from the last time.
 
 Happy Playing!!
+
+### Screenshots
+The screenshots of the game in action can be found in Screenshot folder.
 
 ## My process
 
