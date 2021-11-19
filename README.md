@@ -18,7 +18,7 @@ If the user guess is less than the correct number, too low message is displayed 
 
 If user do not enter any number, No number warning will be given to user.
 
-Once the user wins the current score is set to high score. When the user starts game again, they can compete to incerease their high scores from the last time.
+Once the user wins the current score is set to high score. When the user starts game again, they can compete to increase their high scores from the last time.
 
 Happy Playing!!
 
